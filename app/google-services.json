@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850618310157",
+    "project_id": "boond-ade90",
+    "storage_bucket": "boond-ade90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850618310157:android:c236876715d44496d2bf44",
+        "android_client_info": {
+          "package_name": "com.example.boondclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850618310157-aj5udsn6lvhqsj2d8qjg55l8b5evaqfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIZ6X-fvzDwCFgRsEAHgRg-g540fPSwvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850618310157-aj5udsn6lvhqsj2d8qjg55l8b5evaqfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
